@@ -20,7 +20,8 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  ![image](https://github.com/user-attachments/assets/b1b9412d-5a92-4efa-ae8a-86d13ed65c01)
+
 </div>
 
 ###
@@ -82,3 +83,4 @@
 ###
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GylleadheDev&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GylleadheDev&layout=compact&theme=radical)
