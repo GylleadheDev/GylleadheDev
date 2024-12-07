@@ -80,3 +80,5 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GylleadheDev&show_icons=true&theme=radical)
