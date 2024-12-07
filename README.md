@@ -1,10 +1,10 @@
 
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="49" height="31" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="49" height="31" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="49" height="31" alt="whatsapp logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="49" height="31" alt="instagram logo"  />
+  <a target="_blank" herf="https://www.linkedin.com/in/gylleadhe-ferreira-082a93210/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="49" height="31" alt="linkedin logo"  /></a>
+  <a target="_blank" href="https://discord.gg/Cj7wHUZx"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="49" height="31" alt="discord logo"  /></a>
+  <a target="_blank" href="https://wa.me/+5581998817527"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="49" height="31" alt="whatsapp logo"  /></a>
+  <a target="_blank" href="https://www.instagram.com/gylleadhesantos"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="49" height="31" alt="instagram logo"  /></a>
 </div>
 
 ###
@@ -19,6 +19,9 @@
 ###
 
 <p align="left">I'm Gylleadhe Ferreira from Pernambuco in Brazil<br><br>- 🔭 I’m working as FreeLancer Programmer<br>- 📚 I'm currently learning Java languange with udemy Course<br>- ⚡ In my free time I Love pratice and with Projects</p>
+<h2>Found me on my Socials or in  My portfolio in Link Below</h2>
+
+
 
 ###
 
