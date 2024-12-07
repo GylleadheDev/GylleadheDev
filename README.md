@@ -20,7 +20,7 @@
 ###
 
 <div align="center">
-  ![image](https://github.com/user-attachments/assets/b1b9412d-5a92-4efa-ae8a-86d13ed65c01)
+  <img src="https://github.com/user-attachments/assets/b1b9412d-5a92-4efa-ae8a-86d13ed65c01"></img>
 
 </div>
 
