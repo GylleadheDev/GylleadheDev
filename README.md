@@ -35,16 +35,6 @@
 
 ###
 
-###
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/c0b017f2-8c89-4db6-b076-7c32ee6eea31
-"></img>
-
-</div>
-
-###
-
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
