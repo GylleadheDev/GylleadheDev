@@ -1,8 +1,6 @@
-<!-- Modern README for GylleadheDev -->
-
-<!-- Animated Banner -->
+<!-- Banner animado: substitua SVG externo por um badge animado ou texto simples -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&center=true&multiline=true&width=960&height=100&lines=Hey+there+👋;+Welcome+to+my+GitHub!" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/P8U7kHpyac9kT2bebI/giphy.gif" alt="Bem-vindo ao meu GitHub" width="800" />
 </p>
 
 ---
@@ -20,40 +18,36 @@
 
 ## 🌐 Encontre-me
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/gylleadhe-ferreira-082a93210/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="36" /></a>
-  <a href="https://discord.gg/Cj7wHUZx" target="_blank"><img src="https://skillicons.dev/icons?i=discord" height="36" /></a>
-  <a href="https://wa.me/+5581998817527" target="_blank"><img src="https://skillicons.dev/icons?i=whatsapp" height="36" /></a>
-  <a href="https://www.instagram.com/gylleadhesantos" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="36" /></a>
-  <a href="https://my-portfolio-gylleadheptbrs-projects.vercel.app/" target="_blank"><img src="https://skillicons.dev/icons?i=web" height="36" /></a>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gylleadhe-ferreira-082a93210/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Cj7wHUZx)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5581998817527)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gylleadhesantos)
+[![Portfólio](https://img.shields.io/badge/WebSite-000?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-gylleadheptbrs-projects.vercel.app/)
 
 ---
 
 ## 🚀 Skills e Ferramentas
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,vite,figma,photoshop,canva,git,github,vscode,python,java,javascript,nodejs,express,react,mongodb,mysql,postgresql,postman,nextjs"   />
-</div>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+<!-- Adicione outros conforme necessário -->
 
 ---
 
 ## 📈 Estatísticas
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GylleadheDev&show_icons=true&theme=radical&hide_title=false&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GylleadheDev&layout=compact&theme=radical&hide_border=true&card_width=300" width="48%" />
-</div>
+![GylleadheDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=GylleadheDev&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GylleadheDev&layout=compact&theme=radical)
 
 ---
 
 ## 💼 Portfólio
 
-<a href="https://my-portfolio-gylleadheptbrs-projects.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Visite%20meu%20Portfólio-00c853?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
+[![Visite meu Portfólio](https://img.shields.io/badge/Visit%20Portfolio-00c853?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-gylleadheptbrs-projects.vercel.app/)
 
 ---
 
-<!-- Custom footer or quote -->
 <p align="center"><i>"A tecnologia move o mundo, mas pessoas com propósito mudam o futuro."</i></p>
