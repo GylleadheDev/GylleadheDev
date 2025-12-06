@@ -10,7 +10,7 @@
 ## 🙋‍♂️ Sobre mim
 
 - 🧑‍💻 Desenvolvedor freelancer apaixonado por tecnologia
-- 🌱 Atualmente aprendendo **Java** (Curso Udemy)
+- 🌱 Atualmente iniciando bacharelado em Engenharia de Software pela UNINTER
 - 🏠 Pernambuco, Brasil
 - ⚡ Interessado em inovação e novas tecnologias
 
