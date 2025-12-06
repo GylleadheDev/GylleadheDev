@@ -1,6 +1,6 @@
 <!-- Banner animado: substitua SVG externo por um badge animado ou texto simples -->
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWpqbTVnOW1qcHJibXNydG9vYnR3dm5ydHd1NWF6cWZnaGYxc284ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy.gif"  />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dXZ5d3EwcGdubDd0bXFodzdyNHl5YzA0Z2doZWU5aGpsMTRsb2ZvMCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/10zxDv7Hv5RF9C/giphy.gif"  />
 </p>
 
 ---
