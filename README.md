@@ -1,6 +1,6 @@
 <!-- Banner animado: substitua SVG externo por um badge animado ou texto simples -->
 <p align="center">
-  <img src="https://media.giphy.com/media/P8U7kHpyac9kT2bebI/giphy.gif" alt="Bem-vindo ao meu GitHub" width="800" />
+  <img src="[https://media.giphy.com/media/P8U7kHpyac9kT2bebI/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWpqbTVnOW1qcHJibXNydG9vYnR3dm5ydHd1NWF6cWZnaGYxc284ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy.gif)" alt="Bem-vindo ao meu GitHub" width="800" />
 </p>
 
 ---
